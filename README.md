@@ -5,4 +5,4 @@ New File Explorer, Media Player, Notepad...
 
 Safe To Download. No Virus.
 
-NOTES: VB6 Runtime DLLs Needed
+We'll Soon Develop .Net Framework Version.
