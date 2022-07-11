@@ -6,16 +6,19 @@ New File Explorer, Media Player, Notepad...
 Safe To Download. No Virus.
 
 We'll Soon Develop .Net Framework Version.
+
 # Where To Download
 PALABSEGA Inc. Official Website:
 
-https://sites.google.com/view/palabsega-inc
+https://bit.ly/3yyGzV9
 
-PALABSEGA Beta Program:
+PALABSEGA Inc. Beta Program:
 
-https://sites.google.com/view/palabsega-inc-beta-program
+https://bit.ly/3uE3kWB
 
-# Copyrights
+# License & Copyrights
+License: https://bit.ly/3RnM3La
+
 Copyright © 2022 PALABSEGA Inc. International. 
 All Rights Reserved.
 
