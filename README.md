@@ -12,14 +12,6 @@ PALABSEGA Inc. Official Website:
 
 https://bit.ly/3yyGzV9
 
-PALABSEGA Inc. Beta Program:
-
-https://bit.ly/3uE3kWB
-
-# Need Help?
-
-Help Center: https://bit.ly/3atEkdS
-
 # License & Copyrights
 License: https://bit.ly/3RnM3La
 
