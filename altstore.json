@@ -10,7 +10,7 @@
       "subtitle": "uYou+ is a modified version of uYou with additional features and mainly made for non jailbroken users!",
       "version": "v18.01.6-2.3.1",
       "versionDate": "2023-01-18T12:33:00+08:00",
-      "versionDescription": "Fixed playback speed doesn't "save" when switching to another video.",
+      "versionDescription": "Fixed playback speed doesn't save when switching to another video.",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
       "localizedDescription": "The best tweak for the YouTube app!",
       "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
